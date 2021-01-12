@@ -1,0 +1,68 @@
+/*ここから入力している↓*//*ここから入力している↓*/
+.side_menu .point{
+  background-color: #FCECEC;
+}
+.side_menu .point a{
+  color: #4D4D4D;
+}
+
+.contactform{
+ width: 630px;
+ height: 28rem;
+}
+
+.contactform th{
+  width:150px;
+  font-size: 1.5rem;
+  text-align: right;
+}
+
+
+.contactform td{
+  padding-left: 1rem;
+}
+
+/*コメントの空欄の広さ↓*/
+input.hoge {
+  width: 480px;
+}
+
+/*コメントの空欄高さ↓*/
+input.hogehoge {
+  width:480px;
+  height:7rem;
+}
+
+label{
+  font-size: 1.5rem;
+}
+
+
+.submit{
+text-align : center ;
+ margin:
+}
+
+/*ボタンのサイズ・文字サイズ*・マージン下距離*/
+.button{
+  height:rem;
+  width: px;
+  font-size     : 1.5rem;
+  text-align    : center;
+  background    : #00ff9d;
+  color         : #ffffff;
+  border: none;         /* 枠線を消す */
+  border-radius : 5%;   /* 角丸       */
+
+  padding: 5px;
+
+
+}
+
+.button:hover{
+    opacity: 0.5;
+}
+
+
+
+/*ここから入力している↑*/
